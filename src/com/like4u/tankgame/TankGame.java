@@ -15,8 +15,7 @@ public class TankGame extends JFrame {
     static Scanner scanner= new Scanner(System.in);
     public static void main(String[] args) throws IOException, ClassNotFoundException {
         TankGame tankGame = new TankGame();
-
-
+        //测试
     }
     public TankGame() throws IOException, ClassNotFoundException {
 
